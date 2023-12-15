@@ -1,4 +1,4 @@
-# Pythonのサンプルコード
+## Pythonのサンプルコード
 
 ```python
 def hello():

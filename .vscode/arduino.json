@@ -1,6 +1,5 @@
 {
-    "configuration": "cpu=atmega328old",
-    "board": "arduino:avr:nano",
-    "port": "COM6",
-    "sketch": "Ltika\\Ltika.ino"
+    "board": "arduino:avr:uno",
+    "port": "COM9",
+    "sketch": "Arduino_test\\Arduino_test.ino"
 }
